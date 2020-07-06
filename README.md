@@ -1,4 +1,4 @@
-i# Goal Tracker
+# Goal Tracker
 
 A React, Flask, Postgres goal keeping app.
 
